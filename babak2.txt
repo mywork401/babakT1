@@ -7,7 +7,4 @@ vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=
 vless://TheHotVPN@speedtest.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&type=tcp#5
 vless://TheHotVPN@speedtest.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&type=tcp#7
 
-vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&type=tcp#8
-vless://TheHotVPN@speedtest.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&type=tcp#5
-vless://TheHotVPN@speedtest.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&type=tcp#7
 
