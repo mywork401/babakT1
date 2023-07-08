@@ -10,5 +10,4 @@ vless://d0236924-dd68-4c96-8113-cbea03b917a1@188.64.12.3:443?security=reality&sn
 vless://72a28bef-3c0d-4134-843e-2708a94a5e9e@cdn13.yahoo.haami13.online:443?security=reality&sni=www.yahoo.com&fp=firefox&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&sid=6bb85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#15
 vless://2a99b434-dc93-4902-8655-215efa58b452@65.109.240.139:8888?security=reality&sni=discord.com&fp=firefox&pbk=ehlpvJ-pnXGVZn7PZkPRWqbbBtPVzxiOFqtLqUT55UI&sid=bbb7ec91&type=grpc&serviceName=@CloudCityy#9
 vless://72a28bef-3c0d-4134-843e-2708a94a5e9e@cdn13.yahoo.haami13.online:443?security=reality&sni=www.yahoo.com&fp=firefox&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&sid=6bb85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#12
-vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv28.kiava.fun:443?security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=JjqFdv1sqOYnEvaSjKLLMi7mQLcIajo972DeGD-xmBo&sid=&type=grpc&serviceName=@kiava-@kiava-@kiava#16
 vless://54Join-Telegram-Parsashonam@172.232.43.35:443?security=reality&sni=eset.com&fp=chrome&pbk=4M7PuEAzv45qAiPYBIQmiB267xXkxU5cOetea01WPmM&sid=2267&type=tcp&flow=xtls-rprx-vision#8
