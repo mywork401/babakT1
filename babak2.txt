@@ -1,6 +1,5 @@
 vless://7825a09b-8321-41e0-86b5-2603f318f313@185.219.221.39:8443?security=reality&sni=discord.com&fp=chrome&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&sid=e6&type=tcp&flow=xtls-rprx-vision#6
 vless://d1e6e764-3ae2-41a6-99da-77446346cbfa@38.180.15.115:443?security=reality&sni=www.speedtest.net&fp=safari&pbk=P_VTLeLSwwxhadeByVFwF8lJFFA8VWpv2siU0w4XM3o&sid=c7c2a684&type=tcp&flow=xtls-rprx-vision#5
 vless://2a99b434-dc93-4902-8655-215efa58b452@65.109.240.139:8888?security=reality&sni=discord.com&fp=firefox&pbk=ehlpvJ-pnXGVZn7PZkPRWqbbBtPVzxiOFqtLqUT55UI&sid=bbb7ec91&type=grpc&serviceName=@CloudCityy#2
-vless://d0236924-dd68-4c96-8113-cbea03b917a1@188.64.12.3:443?security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=R6OukSQVCA1QQUvrFziJhaDe6icgBG7kXUa7-7Ve1mI&sid=7e4d2e6e&type=tcp#3
 vless://2a99b434-dc93-4902-8655-215efa58b452@65.109.240.139:8888?security=reality&sni=discord.com&fp=firefox&pbk=ehlpvJ-pnXGVZn7PZkPRWqbbBtPVzxiOFqtLqUT55UI&sid=bbb7ec91&type=grpc&serviceName=@CloudCityy#4
 vless://54Join-Telegram-Parsashonam@172.232.43.35:443?security=reality&sni=eset.com&fp=chrome&pbk=4M7PuEAzv45qAiPYBIQmiB267xXkxU5cOetea01WPmM&sid=2267&type=tcp&flow=xtls-rprx-vision#1
