@@ -18,6 +18,12 @@ vless://bdc32151-5e8d-4b7c-b838-1ced620a1898@167.71.141.20:2095?security=reality
 vless://3cdbbb10-e586-4879-c973-3438085baf2c@141.98.24.155:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae#66
 
 
+vless://ItsLegendaryking@84.54.51.96:443/?type=grpc&encryption=none&flow=&serviceName=Telegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers&sni=www.zula.ir&fp=random&security=reality&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&sid=a56104df#70
+
+vless://be9914a7-9255-4d79-9f20-488305e15315@49.13.19.112:2053/?type=grpc&encryption=none&flow=&sni=expat.com&fp=chrome&security=reality&pbk=GBL865oUMKtOhLyieH7Lbi3iSq0t8M7aqJx2XgsZHHE&sid=8c8260bb#71
+
+
+
 vless://1ac07d0d-6dbe-4363-88f7-3bd78e834993@45.145.7.118:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=c8D2yY_ZRBTiHG8kTa6LZs02b6SNTJRKpDKF74MVng4&sid=1f178b&type=tcp#a1
 vless://50d12d80-1e2a-11ee-811e-1239d0255272@all-network.aparat.lol:2087?security=tls&sni=us4.socifiles.com&type=grpc&serviceName=vlgrpc#a2
 vless://ec95100b-11b4-493f-8667-9f70dc63d7cd@49.13.48.213:2053?security=reality&sni=www.speedtest.net&fp=chrome&pbk=BsY-eZoABACMDOU0vbAxgJ1IRO3fZS9x5HXFxtphElU&sid=25&type=grpc&serviceName=@antifilterch#a3
