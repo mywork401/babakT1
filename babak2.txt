@@ -2,9 +2,7 @@ vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv1.kiava.fun:443?security=reality
 vless://24da2f78-a0fc-4554-89be-7ead4a4804df@128.140.60.188:1443?security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=fmpy89OpQYSzCMsfBOL4VsHtt9fh1wqmstoRAKPNm1s&sid=b978230c&type=grpc&serviceName=@miladalef#26
 vless://a1244f89-07b6-475f-8df5-24ce0b5e8c57@195.201.120.67:1111?security=reality&sni=flutter.dev&fp=chrome&pbk=R_3eeaNh2Ebm6e1XDBEV-ElsX3OWtvlNJUa9LRG0WyY&sid=42908ace&type=tcp&flow=xtls-rprx-vision#34
 vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv2.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=k5PwFxhX1rRbotsNALpGfXJERlLOD5eC_lm2S9_ulGY&sid=&type=grpc&serviceName=@kiava-@kiava-@kiava#30
-vless://fa5f540c-5375-4e9f-bc50-81280c000743@main.xher0.de:10888?security=reality&sni=www.speedtest.net&fp=chrome&pbk=DDMOf0c3VwZocMXXYxWPaIxzWKpLBWxTDzmVyGrhOQo&sid=c73337d0&type=tcp&flow=xtls-rprx-vision#31
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?security=reality&sni=ubuntu.com&fp=chrome&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&sid=61138e86&type=http&path=/dl/index.php#33
-vless://d0236924-dd68-4c96-8113-cbea03b917a1@188.64.12.3:443?security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=R6OukSQVCA1QQUvrFziJhaDe6icgBG7kXUa7-7Ve1mI&sid=7e4d2e6e&type=tcp#28
 vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv2.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=k5PwFxhX1rRbotsNALpGfXJERlLOD5eC_lm2S9_ulGY&sid=&type=grpc&serviceName=@kiava-@kiava-@kiava#32
 vless://CapitalNET@91.107.142.30:29767?security=reality&sni=www.speedtest.net&fp=firefox&pbk=KgOJ6mj8ziTM4nQtfo297PGwJn31Lf7QTMYekr1n_2g&sid=9d44a38b&type=grpc&serviceName=CapitalNET-CapitalNET-CapitalNET#38
 vless://14284934-14ab-4075-b700-97974b0f8cda@79.132.128.47:443?security=reality&sni=www.hamtapay.net&fp=chrome&pbk=9OS43UW2_9i4hxxo1u70oJOrfoQ289FrNp76qlJcxlE&sid=c9c58ef430257db2&type=tcp&flow=xtls-rprx-vision#46
@@ -16,7 +14,6 @@ vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?security=real
 vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest2.wlftest.xyz:443?security=reality&sni=www.speedtest.net&fp=ios&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce&type=tcp&flow=xtls-rprx-vision#51
 vless://85f006bf-6e93-49c1-9c37-be40d389ea06@104.248.23.140:443?security=reality&sni=eset.com&fp=firefox&pbk=UhaTwVay7qJJplYW2tRQ0gZP6dDmWBR_aVoOu3dQjF4&sid=0e52d30d&type=grpc&serviceName=@free_v2rayyy@free_v2rayyy@free_v2rayyy@free_v2rayyy@free_v2rayyy@free_v2rayyy@free_v2rayyy@free_v2rayyy#45
 vless://ec95100b-11b4-493f-8667-9f70dc63d7cd@49.13.48.213:2053?security=reality&sni=www.speedtest.net&fp=chrome&pbk=BsY-eZoABACMDOU0vbAxgJ1IRO3fZS9x5HXFxtphElU&sid=25&type=grpc&serviceName=@antifilterch#40
-vless://9915fa3b-f228-46a2-ab4f-5a67a12aa5db@srv4.kiava.fun:443?security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=lV2trOGsyO2X_G9wuY1NkxiIgB0cBuFfP6-1OVLJFW4&sid=&type=tcp&flow=xtls-rprx-vision#49
 vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv1.kiava.fun:443?security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=d8BbXVe1oSSi5a05I5UDCnqoUOPPT-ao9vXrAjH0HBs&sid=&type=grpc&serviceName=@kiava-@kiava-@kiava#43
 vless://Telegram-Parsashonam-58@172.232.44.33:443?security=reality&sni=eset.com&fp=random&pbk=92U_FtdsWZaZPAqBON1eEScTXEIDvft-h1fpCHRITVs&sid=f0195c8f&type=tcp#50
 vless://24da2f78-a0fc-4554-89be-7ead4a4804df@128.140.60.188:1443?security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=fmpy89OpQYSzCMsfBOL4VsHtt9fh1wqmstoRAKPNm1s&sid=b978230c&type=grpc&serviceName=@miladalef#41
