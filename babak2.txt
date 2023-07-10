@@ -1,16 +1,9 @@
 vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv1.kiava.fun:443?security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=d8BbXVe1oSSi5a05I5UDCnqoUOPPT-ao9vXrAjH0HBs&sid=&type=grpc&serviceName=@kiava-@kiava-@kiava#19
-vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv3.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=4jZAP0e3FVcQL3V6zYbaXhcbjXiJFbKNMH-nFSP47WE&sid=&type=grpc&serviceName=@kiava-@kiava-@kiava#35
 vless://24da2f78-a0fc-4554-89be-7ead4a4804df@128.140.60.188:1443?security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=fmpy89OpQYSzCMsfBOL4VsHtt9fh1wqmstoRAKPNm1s&sid=b978230c&type=grpc&serviceName=@miladalef#26
 vless://a1244f89-07b6-475f-8df5-24ce0b5e8c57@195.201.120.67:1111?security=reality&sni=flutter.dev&fp=chrome&pbk=R_3eeaNh2Ebm6e1XDBEV-ElsX3OWtvlNJUa9LRG0WyY&sid=42908ace&type=tcp&flow=xtls-rprx-vision#34
 vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv2.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=k5PwFxhX1rRbotsNALpGfXJERlLOD5eC_lm2S9_ulGY&sid=&type=grpc&serviceName=@kiava-@kiava-@kiava#30
 vless://fa5f540c-5375-4e9f-bc50-81280c000743@main.xher0.de:10888?security=reality&sni=www.speedtest.net&fp=chrome&pbk=DDMOf0c3VwZocMXXYxWPaIxzWKpLBWxTDzmVyGrhOQo&sid=c73337d0&type=tcp&flow=xtls-rprx-vision#31
-vless://51b24a75-ddca-49f8-a9e0-dc5f18ea61dd@38.180.15.115:23074?security=reality&sni=www.zula.ir&fp=firefox&pbk=ix2ofA77GgFh4dJPMsyQBasJp5CMQuhTopyYENwSCyw&sid=fa138a69&type=tcp#25
-vless://3bd48fa0-fa8a-4362-b70a-5c80b71fd36b@5.178.98.14:2222?security=reality&sni=s.pinimg.com&fp=firefox&pbk=n1qh-hfbM46gJfrQ-8xge_4QDJ4mzxmdfIgSPXablQU&sid=2f04c86b&type=tcp&flow=xtls-rprx-vision#27
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?security=reality&sni=ubuntu.com&fp=chrome&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&sid=61138e86&type=http&path=/dl/index.php#33
 vless://d0236924-dd68-4c96-8113-cbea03b917a1@188.64.12.3:443?security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=R6OukSQVCA1QQUvrFziJhaDe6icgBG7kXUa7-7Ve1mI&sid=7e4d2e6e&type=tcp#28
-vless://958aa025-ffb9-4cc4-b519-3de2f71a6824@168.119.64.238:443?security=reality&sni=discord.com&fp=chrome&pbk=sCCsXQbQP5Dcw8Ab3Yv-G5wdLZIT0qYCJdU3hSk-mQk&sid=07&type=tcp&flow=xtls-rprx-vision#29
 vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv2.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=k5PwFxhX1rRbotsNALpGfXJERlLOD5eC_lm2S9_ulGY&sid=&type=grpc&serviceName=@kiava-@kiava-@kiava#32
-vless://Telegram-iran_ray@iran-ray.top:443?security=reality&sni=discord.com&fp=chrome&pbk=C00z7-xgyX8Li0N_zZjTo8LfFHDCqGrjsCmmpKeEm2U&sid=&type=tcp&flow=xtls-rprx-vision#36
-vless://d7aa2c0a-ce21-4e39-81b5-7073b23c1a18@178.255.222.243:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=pSrBBBII4PTdoOyiK-QPMELY6lRwiYoQIxv-Ttgh4Hg&sid=d6a41cd8&type=tcp#37
-vless://72a28bef-3c0d-4134-843e-2708a94a5e9e@91.107.203.158:443?security=tls&type=tcp#%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%2018%D8%AA%DB%8C%D8%B1
-
+vless://72a28bef-3c0d-4134-843e-2708a94a5e9e@:443?security=tls&type=tcp#%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%2018%D8%AA%DB%8C%D8%B1
