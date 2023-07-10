@@ -15,7 +15,7 @@ vless://8114fa1b-fccb-4669-ae6b-064907971442@104.168.107.230:8087?security=reali
 vless://Telegram-Parsashonam-59@172.232.44.33:443?security=reality&sni=eset.com&fp=random&pbk=92U_FtdsWZaZPAqBON1eEScTXEIDvft-h1fpCHRITVs&sid=f0195c8f&type=tcp#54
 vless://bdc32151-5e8d-4b7c-b838-1ced620a1898@167.71.141.20:2095?security=reality&sni=telewebion.com&fp=firefox&pbk=JLKrdGRgvb-XWQYafrCR_RVTxeeaT2YP0at3WXbnZ34&sid=262bc7&type=grpc#59
 
-vless://3cdbbb10-e586-4879-c973-3438085baf2c@141.98.24.155:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae#66
+
 
 
 vless://ItsLegendaryking@84.54.51.96:443/?type=grpc&encryption=none&flow=&serviceName=Telegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers&sni=www.zula.ir&fp=random&security=reality&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&sid=a56104df#70
