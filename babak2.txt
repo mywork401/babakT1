@@ -18,4 +18,4 @@ vless://5561b8e1-7bd7-4052-e241-bb1d49a152b7@srv1.kiava.fun:443?security=reality
 vless://Telegram-Parsashonam-58@172.232.44.33:443?security=reality&sni=eset.com&fp=random&pbk=92U_FtdsWZaZPAqBON1eEScTXEIDvft-h1fpCHRITVs&sid=f0195c8f&type=tcp#50
 vless://24da2f78-a0fc-4554-89be-7ead4a4804df@128.140.60.188:1443?security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=fmpy89OpQYSzCMsfBOL4VsHtt9fh1wqmstoRAKPNm1s&sid=b978230c&type=grpc&serviceName=@miladalef#41
 vless://e80afda1-3b34-44be-a2d4-569ce3f880ac@194.116.215.93:443?security=reality&sni=www.speedtest.net&fp=firefox&pbk=CE8ldgNiXSM011o-LcYUqhzbNgYS406s0KRy46eMehM&sid=8bbb0018&type=tcp#52
-vless://@194.116.215.93:443?security=tls&fp=firefox&type=tcp#%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%2019%D8%AA%DB%8C%D8%B1
+vless://@1.1.1.1:443?security=tls&fp=firefox&type=tcp#%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%2019%D8%AA%DB%8C%D8%B1
