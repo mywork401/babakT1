@@ -1,27 +1,13 @@
 
 vless://927141ba-2975-4a63-a92e-8b9300735659@bia-to5.unlimiteddev.xyz:443?security=reality&sni=discord.com&fp=chrome&pbk=sCCsXQbQP5Dcw8Ab3Yv-G5wdLZIT0qYCJdU3hSk-mQk&sid=07&type=tcp&flow=xtls-rprx-vision#63
-vless://8114fa1b-fccb-4669-ae6b-064907971442@104.168.107.230:8087?security=reality&sni=benecke.com&fp=chrome&pbk=f-vIk17SZmn_N62C8sWO30CKyGj80iHHh7RqQCg0414&sid=a90934861a3e2c7d&type=tcp&flow=xtls-rprx-vision#67
-
-vless://ItsLegendaryking@84.54.51.96:443/?type=grpc&encryption=none&flow=&serviceName=Telegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers&sni=www.zula.ir&fp=random&security=reality&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&sid=a56104df#70
-
-vless://be9914a7-9255-4d79-9f20-488305e15315@49.13.19.112:2053/?type=grpc&encryption=none&flow=&sni=expat.com&fp=chrome&security=reality&pbk=GBL865oUMKtOhLyieH7Lbi3iSq0t8M7aqJx2XgsZHHE&sid=8c8260bb#71
-
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?security=reality&sni=ubuntu.com&fp=chrome&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&sid=61138e86&spx=&type=http&path=/dl/index.php#78
-vless://080529ef-f452-4e41-b619-363d12b65021@104.168.107.230:443?security=reality&sni=www.datadoghq.com&fp=chrome&pbk=f-vIk17SZmn_N62C8sWO30CKyGj80iHHh7RqQCg0414&sid=a90934861a3e2c7d&spx=&type=tcp&flow=xtls-rprx-vision#75
 vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv9.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=273Dgaxh6PuNHf8uArioB4dMeNHKhodT0b1IYmXpMXI&sid=&spx=/cloudfront&type=tcp&flow=xtls-rprx-vision#72
 vless://16c7584c-c468-4fb1-ec4e-2e24c3abe38f@49.13.51.195:31218?security=reality&sni=ftp.debian.org&fp=chrome&pbk=h5BBdGbhfEzXg62hnjix7tNUC9gCc9WerXvqgUaYyG0&sid=a7097bd9&spx=&type=tcp&flow=xtls-rprx-vision#73
-vless://dbc6da18-3917-4e7b-a9c7-d7550d6e981f@g0thamknights.minecraft.pe:2222?security=reality&sni=s.pinimg.com&fp=safari&pbk=dxwLIaa5QT7xga7ZQQOG16ME8c80IoW6DDEUiCig21w&sid=d9dcb68b&spx=/Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&type=tcp&flow=xtls-rprx-vision#76
-vless://f829f4d1-4eb8-42fc-bdb8-008df9ca4112@join.melov2ray.store:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=CKtMWIcp6J9uqzCg0QQfej0mb-6hVvzneGV-ousHJEE&sid=0ed4d480391fc040&spx=&type=tcp&flow=xtls-rprx-vision#74
-vless://f8c84a6a-b79c-4a9c-a994-95efcb42f541@mr4.zayn2013.sbs:2083?security=reality&sni=debian.org&fp=chrome&pbk=tQJCkwmB37aOLAtt4d95-uYhPtKyG9K-D0A3tc2hMW8&sid=5fd9b45c&spx=&type=grpc&serviceName=xyz#79
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv8.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=KXaFz6UgC3TOVIV59x2jHXOSd8WIqPQdMt6r_U1Ok1M&sid=&spx=/&type=tcp&flow=xtls-rprx-vision#77
 vless://3cdbbb10-e586-4879-c973-3438085baf2c@141.98.24.155:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae&spx=&type=tcp&flow=xtls-rprx-vision#66
 vless://e80afda1-3b34-44be-a2d4-569ce3f880ac@194.116.215.93:443?security=reality&sni=www.speedtest.net&fp=firefox&pbk=CE8ldgNiXSM011o-LcYUqhzbNgYS406s0KRy46eMehM&sid=8bbb0018&spx=/&type=tcp#80
 
 
-vless://e847356b-c7e0-40bf-987d-3eb4d2cd6647@172.232.43.131:8443?security=reality&sni=discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=&type=tcp&flow=xtls-rprx-vision#270
 vless://cdf6f437-4e99-4fae-8bd7-4901ffa1306c@joinn.melov2ray.store:443?security=reality&sni=eset.com&fp=chrome&pbk=7HVX4G3sRgt2k8skEpCpQZ_RM-wTfPS0kcoeljQkeCw&sid=504a04d6&spx=/&type=tcp&flow=xtls-rprx-vision#152
-vless://77540057-4504-43f7-b229-765f9b7bf35d@game.wlftest.xyz:443?security=reality&sni=game&fp=ios&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce&spx=/&type=tcp&flow=xtls-rprx-vision#865
-vless://bda3df35-dba0-4eaa-a089-5c885ece6ade@bia-to5.unlimiteddev.xyz:443?security=reality&sni=discord.com&fp=chrome&pbk=sCCsXQbQP5Dcw8Ab3Yv-G5wdLZIT0qYCJdU3hSk-mQk&sid=07&spx=/&type=tcp&flow=xtls-rprx-vision#390
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?security=reality&sni=ubuntu.com&fp=chrome&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&sid=61138e86&spx=&type=http&path=/dl/index.php#149
 vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv9.kiava.fun:443?security=reality&sni=aws.amazon.com&fp=chrome&pbk=273Dgaxh6PuNHf8uArioB4dMeNHKhodT0b1IYmXpMXI&sid=&spx=/cloudfront&type=tcp&flow=xtls-rprx-vision#373
 vless://ce739a50-66f1-4545-a032-8c4bfe6755f3@91.107.181.184:29123?security=reality&sni=digikala.com&fp=chrome&pbk=_G2suDyQl_hFHrkeAlVE12dC_1bP-KXj4x18TtxtuRI&sid=27129ad3&spx=/&type=tcp&flow=xtls-rprx-vision#161
