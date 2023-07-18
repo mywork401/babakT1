@@ -30,6 +30,9 @@ vless://Xv2rayNG-Xv2rayNG-Xv2rayNG-030@xv2rayng-xv2rayng-xv2rayng-xv2rayng-xv2ra
 vless://46f975a2-8f32-405f-ae8e-e1a71560477d@85.159.228.16:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=NxLR5vkPo5g7kf0GPCM__aUtkHyP86TOTNOibyzQ4z4&sid=df9b20090157c53b&spx=&type=tcp&flow=xtls-rprx-vision#552
 vless://adfb36a4-4faf-4c14-ad6d-0e9fd4ec0493@joinn.melov2ray.store:443?security=reality&sni=eset.com&fp=chrome&pbk=7HVX4G3sRgt2k8skEpCpQZ_RM-wTfPS0kcoeljQkeCw&sid=504a04d6&spx=/&type=tcp&flow=xtls-rprx-vision#557
 vless://c595325c-836e-48fd-8f2f-0a73c15fa5e5@join_telegram_ip_cf.arshia.cloud:8443?security=reality&sni=www.speedtest.net&fp=randomized&pbk=UpdDkDcNlrApD5AXC_zooQ68UG1wXhYA6BywZXd6GG4&sid=39c96909&spx=/&type=tcp&flow=xtls-rprx-vision#558
+vless://1dd9c18b-475e-4e23-b867-2ad5d041ac86@185.206.250.141:42738?mode=gun&security=reality&encryption=none&pbk=HW2oDhxaLCOnvhxTcm-sGpLImJNWaPcjfqm6VZiiGi4&fp=firefox&spx=%2F&type=grpc&serviceName=@yasin_sle____@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF&sni=www.discord.com&sid=43bcb236#1002
+
+
 
 
 
