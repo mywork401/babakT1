@@ -45,22 +45,7 @@ vless://46e704f4-21c9-45be-91d5-c0d6e01a4811@5.230.67.53:2096?encryption=none&fl
 
 
 
-vless://a0a44661-8e71-4e4d-ad8d-6fc82264fa74@5.42.77.71:8880?security=reality&encryption=none&pbk=I_TIWrSzY1L1pTxpJHg_-oXbzqczaH77DptZlEvAajU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=afb821a3a214deaf#1
-vless://ebecf1d4-c150-4867-b872-0085d23f06dd@5.42.77.255:8880?security=reality&encryption=none&pbk=Hc4Y0MLleA5ftPSCSBWmz7f09IDJyWEVFuMcU4IvQQA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=2204c95591a1cc87#2
-vless://736604f0-27d4-41ea-afa3-eac6e0bcb499@5.42.77.255:443?security=reality&encryption=none&pbk=Hc4Y0MLleA5ftPSCSBWmz7f09IDJyWEVFuMcU4IvQQA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=2204c95591a1cc87#3
-vless://d1c9b4fe-237b-4be5-92df-0b20afde87e0@5.42.77.71:2096?security=reality&encryption=none&pbk=I_TIWrSzY1L1pTxpJHg_-oXbzqczaH77DptZlEvAajU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mathhub.info&sid=afb821a3a214deaf#4
-vless://85a416ae-0fd4-4253-ad07-2d570473ecf7@5.42.77.71:443?security=reality&encryption=none&pbk=I_TIWrSzY1L1pTxpJHg_-oXbzqczaH77DptZlEvAajU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=afb821a3a214deaf#5
-vless://f1e85214-854a-4091-b7a1-e9a65a29498c@176.124.198.154:10050?security=reality&encryption=none&pbk=6kJ3m7yJwIzFu0fSpmin--juDqga810-w6fVUxzw720&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fruitfulcode.com&sid=0c6e187f34f1ac4d#6
-vless://acce00d1-b8ff-403a-a3e8-7c61310c53bd@176.124.198.154:8880?security=reality&encryption=none&pbk=6kJ3m7yJwIzFu0fSpmin--juDqga810-w6fVUxzw720&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=0c6e187f34f1ac4d#7
-vless://f85baafb-ce40-46a0-99c7-3f073e84065b@5.42.77.255:6443?security=reality&encryption=none&pbk=Hc4Y0MLleA5ftPSCSBWmz7f09IDJyWEVFuMcU4IvQQA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fernandotrueba.com&sid=2204c95591a1cc87#8
-vless://29042cef-69b1-402c-8b41-09242caa9d50@176.124.198.154:8443?security=reality&encryption=none&pbk=6kJ3m7yJwIzFu0fSpmin--juDqga810-w6fVUxzw720&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tarhpro.ir&sid=0c6e187f34f1ac4d#9
-vless://8f53843c-f16b-4b3a-9d57-7f116ee0091c@5.42.77.255:10050?security=reality&encryption=none&pbk=Hc4Y0MLleA5ftPSCSBWmz7f09IDJyWEVFuMcU4IvQQA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fruitfulcode.com&sid=2204c95591a1cc87#10
 vless://9f187d7c-edda-40a6-8193-74baa2abdbd5@5.42.77.71:2082?security=reality&encryption=none&pbk=I_TIWrSzY1L1pTxpJHg_-oXbzqczaH77DptZlEvAajU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=benecke.com&sid=afb821a3a214deaf#11
-vless://63700fb2-c231-4bb8-bb3a-9e1c7c41ecf0@5.42.77.255:2082?security=reality&encryption=none&pbk=Hc4Y0MLleA5ftPSCSBWmz7f09IDJyWEVFuMcU4IvQQA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=benecke.com&sid=2204c95591a1cc87#12
-vless://fe98cab6-678f-4a88-af90-f75391b3c81f@5.42.77.255:2096?security=reality&encryption=none&pbk=Hc4Y0MLleA5ftPSCSBWmz7f09IDJyWEVFuMcU4IvQQA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mathhub.info&sid=2204c95591a1cc87#13
-vless://134d7598-29a0-437e-9ef1-1f0a1c88ce1c@5.42.77.71:10050?security=reality&encryption=none&pbk=I_TIWrSzY1L1pTxpJHg_-oXbzqczaH77DptZlEvAajU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fruitfulcode.com&sid=afb821a3a214deaf#14
-vless://09023039-ed81-4ecf-acdd-591f4bcbf201@5.42.77.71:22?security=reality&encryption=none&pbk=I_TIWrSzY1L1pTxpJHg_-oXbzqczaH77DptZlEvAajU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=000webhost.ir&sid=afb821a3a214deaf#15
-vless://ef632e9c-505a-4c2d-ba75-ad79eb3e2f2c@nether.ninjapars.xyz:443?security=reality&encryption=none&pbk=sKVUTbC87uXKw73CB_ISN6tTsfZPO3XAArmhxbZnUl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=bd864775#17
 vless://828d5df2-8acd-4b45-aa3b-172e0ad0cfe8@5.75.212.244:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=@IP_CF&sni=www.discordapp.com#12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYXFIZkRGSjFaRHE0eG9UYXRBSnVB@91.107.189.98:1080#18
 vless://ab2f979a-ad96-4dfc-9727-b15101813a23@91.107.189.98:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#19
