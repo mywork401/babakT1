@@ -81,7 +81,10 @@ vless://fe98cab6-678f-4a88-af90-f75391b3c81f@5.42.77.255:2096?security=reality&e
 vless://134d7598-29a0-437e-9ef1-1f0a1c88ce1c@5.42.77.71:10050?security=reality&encryption=none&pbk=I_TIWrSzY1L1pTxpJHg_-oXbzqczaH77DptZlEvAajU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fruitfulcode.com&sid=afb821a3a214deaf#14
 vless://09023039-ed81-4ecf-acdd-591f4bcbf201@5.42.77.71:22?security=reality&encryption=none&pbk=I_TIWrSzY1L1pTxpJHg_-oXbzqczaH77DptZlEvAajU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=000webhost.ir&sid=afb821a3a214deaf#15
 vless://ef632e9c-505a-4c2d-ba75-ad79eb3e2f2c@nether.ninjapars.xyz:443?security=reality&encryption=none&pbk=sKVUTbC87uXKw73CB_ISN6tTsfZPO3XAArmhxbZnUl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=bd864775#17
+vless://828d5df2-8acd-4b45-aa3b-172e0ad0cfe8@5.75.212.244:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=@IP_CF&sni=www.discordapp.com#12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYXFIZkRGSjFaRHE0eG9UYXRBSnVB@91.107.189.98:1080#18
 
+vless://ab2f979a-ad96-4dfc-9727-b15101813a23@91.107.189.98:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#19
 
 
 vless://09023039-ed81-4ecf-acdd-591f4bcbf201@5.42.77.71:22?security=reality&encryption=none&pbk=I_TIWrSzY1L1pTxpJHg_-oXbzqczaH77DptZlEvAajU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=000webhost.ir&sid=afb821a3a214deaf#%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%DB%B4+%D9%85%D8%B1%D8%AF%D8%A7%D8%AF
