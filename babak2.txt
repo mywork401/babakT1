@@ -184,8 +184,7 @@ vless://575eef43-4af0-4beb-aae9-d151deca13df@88.198.111.247:443?encryption=none&
 vless://fbe02c0b-775f-4431-8615-a9497255c876@116.202.177.109:443?encryption=none&flow=xtls-rprx-vision&headerType=none&security=reality&type=tcp#5534
 vless://93ed0514-854b-4e6c-9967-f8dc4b40db8a@hoddi.cpionline.co:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=None&hiddify=1&pbk=pTCUN5RN_CFndc6VnNO_M3aZzJDAQFVshDifkC_70Sg&security=reality&sid=5fef8b64&sni=fteproxy.org&type=tcp#5535
 vless://79770a32-9607-4919-9483-0f1794559390@nika1401.duckdns.org:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=None&hiddify=1&pbk=Gw4UpFUr0EI6E0z6jyMf0AV5HEBStEHIDnDh7R3X93E&security=reality&sid=1e20&sni=www.nbcnewyork.com&type=tcp#5536
-trojan://
-ss://Og==@:
+
 
 
 vless://b59cb438-418a-431f-ab39-7c81d2d27772@49.13.63.0:443?security=reality&sni=www.speedtest.net&fp=firefox&pbk=Sgy9PZYZhXPSSKnCEVSnj5YhQJbtu-l83SF_EOUKjzs&sid=35eaa4a6&spx=/&type=grpc&serviceName=Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT#%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DB%B9%20%D9%85%D8%B1%D8%AF%D8%A7%D8%AF
