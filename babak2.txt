@@ -5,6 +5,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#2
 
 
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbWZ4MjBYTkxSVERvcE1OZkJoSzBJ@104.45.5.241:57445
+vless://15ea0277-5659-4749-b623-0fe08ad2ed5a@49.13.21.245:18090/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=firefox&security=reality&pbk=US4QF1FiDjW8GnALlA1ii_eygWX8j-tn6L1iZMxC4l8&sid=16d48180
+vless://c5ce775a-7110-42aa-8705-c6325697028d@49.13.21.245:32853/?type=http&encryption=none&flow=&path=%2F&sni=discord.com&fp=firefox&security=reality&pbk=S8dtBNcZ7aZtGvJDPCuxAxKZtrHR7zJAkaFH9AuHrCA&sid=fcfe0567#
+
+
 vless://12902b3e-6984-423c-ae83-0d541dd3604b@116.203.66.28:443?encryption=none&fp=chrome&headerType=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=davahome.net&type=tcp#3358
 vless://768bd038-d320-4553-e29a-5c1b6af83fef@cdn-3.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=J9N0z9KJS1brB8Nx8BXw5sE4iTHn7V2iBlUVgzwPHxI&security=reality&sid=c15a&sni=cdn.kiava.fun&spx=%2F&type=tcp#3359
 vless://894f4a55-62f6-402a-b5c4-2e098c60b12f@network.batenburgenergietechniek.org:26626?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=lqiDFmuWBR0hJxQT1q1E6q_pllDvOGjk3iaV37e-MhY&security=reality&sni=network.batenburgenergietechniek.org&type=tcp#3360
