@@ -5,7 +5,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#2
 
 
-vless://2593b1a6-9b73-452d-9e60-30c18daf3936@141.11.228.92:23130?security=reality&sni=ubuntu.com&fp=firefox&pbk=-oUk0q2sY3_z6U9aEx8DQIboyKXTC6hC14oAtFZWcwQ&sid=b4e85b10&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#ok1
+vless://db558b6d-dabc-431f-8fef-3d7321e49a05@45.145.4.12:55943?type=tcp&security=reality&fp=firefox&pbk=uNRbun1QKcz72rWqoGJlTa-XhFH8YS7bKelnr3HoeAE&sni=ubuntu.com&flow=xtls-rprx-vision&sid=4ddd78fe&spx=%2F#ok1
+
 
 g:
 vmess://eyJhZGQiOiJib2JieWtvdGljay5yaXAiLCJhaWQiOiIwIiwiaG9zdCI6IkFtc3RlcmRhbS5ib2JieWtvdGljay5yaXAiLCJpZCI6IjdDMTI3RDRBLTVDMzctNDY2OC1CRUZELTIyM0MzQTUwRjUyQyIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDQzIiwicHMiOiJnMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJBbXN0ZXJkYW0uYm9iYnlrb3RpY2sucmlwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
