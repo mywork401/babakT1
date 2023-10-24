@@ -1,2 +1,2 @@
 
-vless://db558b6d-dabc-431f-8fef-3d7321e49a05@45.15.14.12:55943?type=tcp&security=reality&fp=firefox&pbk=uNRbun1QKcz72rWqoGJlTa-XhFH8YS7bKelnr3HoeAE&sni=ubuntu.com&flow=xtls-rprx-vision&sid=4ddd78fe&spx=%2F#
+vless://db558b6d-dabc-431f-8fef-3d7321e49a05@45.15.14.12:55943?type=tcp&security=reality&fp=firefox&pbk=uNRbun1QKcz72rWqoGJlTa-XhFH8YS7bKelnr3HoeAE&sni=ubuntu.com&flow=xtls-rprx-vision&sid=4ddd78fe&spx=%2F#12
