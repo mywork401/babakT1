@@ -5,8 +5,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#2
 
-
-vless://db558b6d-dabc-431f-8fef-3d7321e49a05@45.145.4.12:55943?type=tcp&security=reality&fp=firefox&pbk=uNRbun1QKcz72rWqoGJlTa-XhFH8YS7bKelnr3HoeAE&sni=ubuntu.com&flow=xtls-rprx-vision&sid=4ddd78fe&spx=%2F#ok1
+vless://7b11b2af-1d69-4c2d-8472-09ef806f5c27@31.222.203.235:48404?type=tcp&security=reality&fp=firefox&pbk=1khaUEBPH1k8dd-vz4452WozIy8AVLcR0sYWrcqbx1M&sni=ubuntu.com&flow=xtls-rprx-vision&sid=b8d1da68&spx=%2F#ok4
 
 
 g:
