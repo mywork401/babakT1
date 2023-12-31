@@ -18,12 +18,6 @@ vmess://eyJhZGQiOiI4MS4xMi4yNy42IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImRmY2MxNTAw
 vmess://eyJhZGQiOiI4MS4xMi4yNy4zIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjI4MjVjYWMzLTZhY2MtNDQ2OC1hZDMxLWI2ZDNhM2U4ZmU2ZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA0MDQiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI4MS4xMi4yNy43IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImIzYzQ5YjUzLTJkNWQtNGQxMy1kMTk1LTc2ZDQ4YWVjY2QxMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzc5NzUiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293
-ss://YWVzLTI1Ni1nY206RHVFNkdwbGFhcA==@24.199.103.101:35678
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@212.102.47.198:443
-trojan://tune7jerky7HAYRICK@96.126.123.244:443?security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1&fp=chrome&type=tcp
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.54.108.110:6679
-trojan://6aWFNbrFDs@129.146.147.170:443?security=tls&sni=need.uno&allowInsecure=1&fp=chrome&type=tcp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMWVmN2UwZDUzMTE0YmUwZDQ4MGIzNTFiODk5ZmNiOA==@49.51.71.120:15413
+vless://f6618dfb-4a09-4821-c565-28746bce6f1b@172.67.172.214:8080?security=&fp=chrome&type=ws&path=/backup&host=help.khamenei.bio&encryption=none
+vless://a4760310-a2ea-43f1-9ef6-8e09ce5fbe2b@172.67.200.166:443?security=tls&sni=4940103542.cdnsheypoor.online&fp=chrome&type=grpc&serviceName=39818678&encryption=none
+vless://6d2dafe8-c9b1-486f-a08e-be4f17985108@162.251.82.187:2053?security=tls&sni=de-chanel-ma.trv2rayy.cfd&alpn=http/1.1&fp=chrome&type=ws&path=/6NgPo3HatwCb7kFV49r&host=de-chanel-ma.trv2rayy.cfd&encryption=none
