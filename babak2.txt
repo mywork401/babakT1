@@ -13,11 +13,6 @@ vless://SvnTeam&SvnTeam&SvnTeam@mtn.vpnprosec.com:2053?security=tls&sni=V2ray.Sv
 vless://SvnTeam&SvnTeam&SvnTeam@mtn.vpnprosec.com:2053?security=tls&sni=V2ray.SvnReallity.Online&alpn=http/1.1,h2&fp=chrome&type=grpc&encryption=none#2%20fin
 vless://SvnTeam&SvnTeam&SvnTeam@mtn.vpnprosec.com:2053?security=tls&sni=V2ray.join-svnteam.online&alpn=http/1.1,h2&fp=chrome&type=grpc&encryption=none#3%20usa
 
-vmess://eyJhZGQiOiI3OS4xNDMuODQuMTE3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjQ2NDY1YmJlLTYyOGEtNDk4OC1hZTNjLTBjMTY0MjM3YTAzOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjQxNDEiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI4MS4xMi4yNy42IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImRmY2MxNTAwLTcwYzQtNDEwYi1iNWZlLTIwNTJhMDExMDE0ZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzEyOTUiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI4MS4xMi4yNy4zIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjI4MjVjYWMzLTZhY2MtNDQ2OC1hZDMxLWI2ZDNhM2U4ZmU2ZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA0MDQiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI4MS4xMi4yNy43IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImIzYzQ5YjUzLTJkNWQtNGQxMy1kMTk1LTc2ZDQ4YWVjY2QxMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzc5NzUiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-vless://f6618dfb-4a09-4821-c565-28746bce6f1b@172.67.172.214:8080?security=&fp=chrome&type=ws&path=/backup&host=help.khamenei.bio&encryption=none
-vless://a4760310-a2ea-43f1-9ef6-8e09ce5fbe2b@172.67.200.166:443?security=tls&sni=4940103542.cdnsheypoor.online&fp=chrome&type=grpc&serviceName=39818678&encryption=none
-vless://6d2dafe8-c9b1-486f-a08e-be4f17985108@162.251.82.187:2053?security=tls&sni=de-chanel-ma.trv2rayy.cfd&alpn=http/1.1&fp=chrome&type=ws&path=/6NgPo3HatwCb7kFV49r&host=de-chanel-ma.trv2rayy.cfd&encryption=none
+vless://e60baf1a-89e2-42a1-ba71-9af6fb54de22@172.67.122.143:2096?security=tls&sni=subvah2.mywork1401outlook20228601.woRKeRS.DEv&fp=chrome&type=ws&path=vless-ws/?ed%3D2048&host=subvah2.mywork1401outlook20228601.woRKeRS.DEv&encryption=none#2-
+vless://e60baf1a-89e2-42a1-ba71-9af6fb54de22@198.41.221.16:443?security=tls&sni=subvah2.mywork1401outlook20228601.WOrKeRs.DEv&alpn=http/1.1&fp=edge&type=ws&path=vless-ws/?ed%3D2048&host=subvah2.mywork1401outlook20228601.WOrKeRs.DEv&encryption=none#4-
