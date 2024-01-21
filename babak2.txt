@@ -3,14 +3,12 @@ vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@chidaneh.com:443?security=tls&sni=h
 vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@104.31.16.218:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-free2
 vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@icon.xeonservice.xyz:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-free3
 
-vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?security=&fp=chrome&type=ws&path=/&encryption=none
-vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?security=&fp=chrome&type=ws&path=/&encryption=none
-vless://dydar@speedtest.org:80?security=&fp=chrome&type=ws&host=dydar.%D7%A1%D7%95%D7%99%D7%95%D7%A9%D7%94.tech&encryption=none
-vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?security=&fp=chrome&type=ws&path=/&encryption=none
-vless://e8f6d88d-edff-4cc7-ae8f-a2208c043714@45.95.232.64:443?security=reality&sni=ak.dr-web.fun&fp=random&pbk=_eyh-kE7mxYo1SS5k2XfDNP7M2mpL3gqJ3u97L7j2SU&sid=42c148ff&type=grpc&encryption=none
-vless://564985a0-ea67-4049-b68b-efc773b1394a@yourconfig.camdvr.org:443?security=reality&sni=greenpepper.ir&fp=firefox&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&sid=0960546b&spx=/&type=grpc&serviceName=@Fnet00&encryption=none
-vless://-MsV2ray--MsV2ray-@all.msv2ray.online:2095?security=&fp=chrome&type=ws&path=/@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray?ed%3D2048&host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&encryption=none
-vless://3ac397f4-7f60-4afe-a31e-bf2b904ea8d4@190.93.244.103:8880?security=&fp=chrome&type=ws&path=/@LIGHTNING6&host=LiV2rayb.%E6%B6%85%E7%94%B7%E9%81%8E%E6%B6%85%E4%BA%8B.website&encryption=none
-vless://120bfa52-2f7d-4b0e-ff4a-59ed8d436e17@172.67.26.210:80?security=&fp=chrome&type=ws&path=/dl/index.php&host=JCYjrF.%D8%B3%DB%8C%D8%B3%DB%8C.WORlD&encryption=none
-vless://667c6c32-609f-4c08-9bdb-da6333f2a89b@104.25.70.67:443?security=tls&sni=vhapi68.vipbtamasha.store&fp=chrome&type=ws&path=/apiapp&host=vhapi68.vipbtamasha.store&encryption=none
-
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@www.speedtest.net:443?security=tls&sni=tmp1.KorEyeK266.woRKers.DEV&alpn=http/1.1&fp=randomized&type=ws&path=/s5RjAjtcT-yV-__M?ed%3D2048&host=TMp1.KOREyEK266.wOrKeRs.DEv&encryption=none#sp1
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@tmp1.koreyek266.workers.dev:443?security=tls&sni=tmp1.KOreyeK266.WOrkErs.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/qWgGYuEgD5ktGOMK?ed%3D2048&host=tmP1.KOREyEk266.wOrkeRs.DEV&encryption=none#sp2
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@[2a06:98c1:3121::]:443?security=tls&sni=TMp1.KOReyek266.workers.dev&alpn=http/1.1&fp=randomized&type=ws&path=/JBuvIzbrVa5BcJuM?ed%3D2048&host=TmP1.KoReyEk266.WOrkERS.Dev&encryption=none#sp3
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@[2a06:98c1:3120::]:443?security=tls&sni=tMP1.koREyek266.WoRkERs.dev&alpn=http/1.1&fp=randomized&type=ws&path=/y6yD_p5hLObV_Nr6?ed%3D2048&host=tMP1.koREyek266.WorkeRs.deV&encryption=none#sp4
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@188.114.97.0:443?security=tls&sni=tmp1.KOreYEK266.wOrKERs.dev&alpn=http/1.1&fp=randomized&type=ws&path=/uP9GmjSI2_XleNo_?ed%3D2048&host=TMP1.kOREyEK266.woRKERs.dev&encryption=none#sp5
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@188.114.96.0:443?security=tls&sni=TmP1.KOREyek266.WorkErS.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/4qb_nbBAV_dLL3K_?ed%3D2048&host=Tmp1.KOreYEk266.WOrkers.dEv&encryption=none#sp6
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@104.31.16.218:443?security=tls&sni=TmP1.KOREyek266.WorkErS.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/4qb_nbBAV_dLL3K_?ed%3D2048&host=Tmp1.KOreYEk266.WOrkers.dEv&encryption=none#sp7
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@icon.xeonservice.xyz:443?security=tls&sni=TmP1.KOREyek266.WorkErS.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/4qb_nbBAV_dLL3K_?ed%3D2048&host=Tmp1.KOreYEk266.WOrkers.dEv&encryption=none#sp8
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@chidaneh.com:443?security=tls&sni=TmP1.KOREyek266.WorkErS.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/4qb_nbBAV_dLL3K_?ed%3D2048&host=Tmp1.KOreYEk266.WOrkers.dEv&encryption=none#sp9
