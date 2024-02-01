@@ -4,13 +4,6 @@ vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@104.31.16.218:443?security=tls&sni=
 vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@icon.xeonservice.xyz:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-free3
 
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.62.73:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&fp=chrome&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.76.240:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&fp=chrome&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none
-vless://-ArV2ray--ArV2ray--ArV2ray-@www.speedtest.net:80?security=&fp=chrome&type=ws&path=/@ArV2ray,@ArV2ray,@ArV2ray?ed%3D2048&host=l.l.l.l.l.l.l.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B781.tech&encryption=none
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.237.58:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&fp=chrome&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.120.162:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&fp=chrome&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none
-
-
 
 
 vless://9aa69306-c268-404a-ae3c-724befb0d67c@www.speedtest.net:443?security=tls&sni=tmp1.KorEyeK266.woRKers.DEV&alpn=http/1.1&fp=randomized&type=ws&path=/s5RjAjtcT-yV-__M?ed%3D2048&host=TMp1.KOREyEK266.wOrKeRs.DEv&encryption=none#sp1
