@@ -5,6 +5,8 @@ vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@icon.xeonservice.xyz:443?security=t
 
 
 
+vless://0b085910-2056-4b5f-f0b1-2fe02d596cf5@188.114.96.113:443?security=tls&sni=my1.prapt1.ir&fp=chrome&type=grpc&encryption=none
+vless://cbf3896d-1856-4ee9-8411-02b63f9559fa@104.21.17.209:2087?security=tls&sni=f35uk.rafachita.ir&fp=chrome&type=grpc&encryption=none
 
 vless://9aa69306-c268-404a-ae3c-724befb0d67c@www.speedtest.net:443?security=tls&sni=tmp1.KorEyeK266.woRKers.DEV&alpn=http/1.1&fp=randomized&type=ws&path=/s5RjAjtcT-yV-__M?ed%3D2048&host=TMp1.KOREyEK266.wOrKeRs.DEv&encryption=none#sp1
 vless://9aa69306-c268-404a-ae3c-724befb0d67c@tmp1.koreyek266.workers.dev:443?security=tls&sni=tmp1.KOreyeK266.WOrkErs.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/qWgGYuEgD5ktGOMK?ed%3D2048&host=tmP1.KOREyEk266.wOrkeRs.DEV&encryption=none#sp2
