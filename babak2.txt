@@ -29,5 +29,5 @@ vless://9aa69306-c268-404a-ae3c-724befb0d67c@icon.xeonservice.xyz:443?security=t
 vless://9aa69306-c268-404a-ae3c-724befb0d67c@chidaneh.com:443?security=tls&sni=TmP1.KOREyek266.WorkErS.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/4qb_nbBAV_dLL3K_?ed%3D2048&host=Tmp1.KOreYEk266.WOrkers.dEv&encryption=none#sp9
 
 
-
+https://raw.githubusercontent.com/mywork401/babakT1/main/babak3.txt
 
