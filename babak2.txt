@@ -34,7 +34,7 @@ vless://9aa69306-c268-404a-ae3c-724befb0d67c@188.114.96.0:443?security=tls&sni=T
 vless://9aa69306-c268-404a-ae3c-724befb0d67c@104.31.16.218:443?security=tls&sni=TmP1.KOREyek266.WorkErS.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/4qb_nbBAV_dLL3K_?ed%3D2048&host=Tmp1.KOreYEk266.WOrkers.dEv&encryption=none#sp7
 vless://9aa69306-c268-404a-ae3c-724befb0d67c@icon.xeonservice.xyz:443?security=tls&sni=TmP1.KOREyek266.WorkErS.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/4qb_nbBAV_dLL3K_?ed%3D2048&host=Tmp1.KOreYEk266.WOrkers.dEv&encryption=none#sp8
 vless://9aa69306-c268-404a-ae3c-724befb0d67c@chidaneh.com:443?security=tls&sni=TmP1.KOREyek266.WorkErS.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/4qb_nbBAV_dLL3K_?ed%3D2048&host=Tmp1.KOreYEk266.WOrkers.dEv&encryption=none#sp9
-
+vless://9aa69306-c268-404a-ae3c-724befb0d67c@104.16.213.74:443?security=tls&sni=TmP1.KOREyek266.WorkErS.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/4qb_nbBAV_dLL3K_?ed%3D2048&host=Tmp1.KOreYEk266.WOrkers.dEv&encryption=none#sp7-2
 
 
 
