@@ -3,7 +3,6 @@ vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@chidaneh.com:443?security=tls&sni=h
 vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@104.31.16.218:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-free2
 vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@icon.xeonservice.xyz:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-free3
 
-warp://auto
 warp://162.159.195.171:8854/?ifp=5-10
 
 
