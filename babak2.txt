@@ -13,8 +13,6 @@ vmess://eyJhZGQiOiJhcHBob3QuY2MiLCJhaWQiOiIwIiwiaG9zdCI6IkRhbGxhcy5yZWFsaXR5Zm9y
 
 
 
-vless://ac20f1bb-6786-449b-a4ca-978cad3fbdff@104.24.176.7:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=randomized&type=grpc&serviceName=@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir&sni=grw.puzzlemobile.info#fws1
-
 
 
 
