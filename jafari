@@ -8,3 +8,6 @@ vless://21872125-102d-4c1e-a2fe-bec93b7c1335@chidaneh.com:443?security=tls&sni=h
 vless://21872125-102d-4c1e-a2fe-bec93b7c1335@160.153.0.108:443?security=tls&sni=hv1.npfec.ir&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-jafari
 vless://21872125-102d-4c1e-a2fe-bec93b7c1335@188.114.96.3:443?security=tls&sni=hv1.npfec.ir&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-jafari
 vless://21872125-102d-4c1e-a2fe-bec93b7c1335@www.speedtest.net:443?security=tls&sni=hv1.npfec.ir&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-jafari
+gn:
+vmess://eyJhZGQiOiIxNjAuMTUzLjAuMTA4IiwiYWlkIjoiMCIsImhvc3QiOiJUZXhhcy5yZWFsaXR5Zm9ydXMuY29tIiwiaWQiOiIxNDg5NzdhNy01NTI1LTQ4YWItYWJlNS1kM2IwMzhjZjM1MWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjQ0MyIsInBzIjoiZzEtdXMiLCJzY3kiOiJhdXRvIiwic25pIjoiVGV4YXMucmVhbGl0eWZvcnVzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+hy2://148977a7-5525-48ab-abe5-d3b038cf351c@144.172.118.76:40443?sni=speedtest.realityforus.com#g1-us
