@@ -6,4 +6,7 @@ vless://f83a4646-bb83-45e3-afb9-17c5b91f5968@172.67.71.202:443?path=%2Fmywork&se
 vless://f83a4646-bb83-45e3-afb9-17c5b91f5968@coloradophotosource.com:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-Ahmadcolor
 vless://f83a4646-bb83-45e3-afb9-17c5b91f5968@160.153.0.108:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-Ahmad160
 
+vless://f83a4646-bb83-45e3-afb9-17c5b91f5968@23.227.39.40:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-Ahmad160
+vless://f83a4646-bb83-45e3-afb9-17c5b91f5968@104.16.77.0:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-Ahmad160
+vless://f83a4646-bb83-45e3-afb9-17c5b91f5968@104.16.191.9:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-Ahmad160
 
