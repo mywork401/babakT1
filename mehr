@@ -22,11 +22,9 @@ vless://623cdbd1-9a36-418e-88fc-62ae464a234b@104.16.77.0:443?path=%2Fmywork&secu
 
 hy2://768333f5afd375b1@193.242.145.249:9443?obfs=salamander&obfs-password=c786dc00b2fbe4aa&insecure=1&sni=www.google.com#HY2
 warp://188.114.98.224:908/?ifp=5-10
+hysteria://108.181.5.133:26022?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#United%20States_hysteria_0
+gfedge
+vmess://eyJhZGQiOiIxNjAuMTUzLjAuMTA4IiwiYWlkIjoiMCIsImhvc3QiOiJGcmFua2Z1cnQucmVhbGl0eWZvcnVzLmNvbSIsImlkIjoiNjg5Mzc4Y2EtOTI0Yi00YTg4LWFmMzEtZWVmNzc3N2JiODU2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6ImctZGUgZWRnZSIsInNjeSI6ImF1dG8iLCJzbmkiOiJGcmFua2Z1cnQucmVhbGl0eWZvcnVzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMDQuMjEuMzUuMzkiLCJhaWQiOiIwIiwiaG9zdCI6IlRleGFzLnJlYWxpdHlmb3J1cy5jb20iLCJpZCI6IjY4OTM3OGNhLTkyNGItNGE4OC1hZjMxLWVlZjc3NzdiYjg1NiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDQzIiwicHMiOiJnLXVzIiwic2N5IjoiYXV0byIsInNuaSI6IlRleGFzLnJlYWxpdHlmb3J1cy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 hy2://689378ca-924b-4a88-af31-eef7777bb856@45.142.113.238:40443?sni=speedtest.realityforus.com#g-de
 hy2://689378ca-924b-4a88-af31-eef7777bb856@144.172.118.76:40443?sni=speedtest.realityforus.com#ge-us
-hysteria://62.210.243.131:18702?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#France_hysteria_2
-hysteria://62.210.243.131:18702?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#France_hysteria_1
-hysteria://109.104.152.194:58510?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#United%20States_hysteria_3
-hysteria://108.181.5.133:26022?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#United%20States_hysteria_0
-hy2://dongtaiwang.com@74.63.233.74:33445?insecure=1&sni=www.bing.com#United%20States_hy2_0
-hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=www.bing.com#United%20States_hy2_7
