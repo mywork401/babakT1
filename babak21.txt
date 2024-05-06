@@ -7,9 +7,6 @@ vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@icon.xeonservice.xyz:443?security=t
 
 warp://162.159.195.171:8854/?ifp=5-10
 
-vless://2176fb5b-1078-4ec3-9f1b-bdca94890294@web.thebestvv2.xyz:2053?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws#free+du
-
-hy2://dongtaiwang.com@51.159.77.198:53967?insecure=1&sni=www.bing.com#Fr-free
 
 vless://9aa69306-c268-404a-ae3c-724befb0d67c@www.speedtest.net:443?security=tls&sni=tmp1.KorEyeK266.woRKers.DEV&alpn=http/1.1&fp=randomized&type=ws&path=/s5RjAjtcT-yV-__M?ed%3D2048&host=TMp1.KOREyEK266.wOrKeRs.DEv&encryption=none#sp1
 vless://9aa69306-c268-404a-ae3c-724befb0d67c@tmp1.koreyek266.workers.dev:443?security=tls&sni=tmp1.KOreyeK266.WOrkErs.dEv&alpn=http/1.1&fp=randomized&type=ws&path=/qWgGYuEgD5ktGOMK?ed%3D2048&host=tmP1.KOREyEk266.wOrkeRs.DEV&encryption=none#sp2
@@ -34,7 +31,6 @@ vless://9aa69306-c268-404a-ae3c-724befb0d66c@172.67.122.143:443?security=tls&sni
 
 
 hysteria://108.181.5.133:26022?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#husa
-hy2://dongtaiwang.com@74.63.233.74:33445?insecure=1&sni=www.bing.com#husa
-hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=www.bing.com#husa
+
 
 gn
