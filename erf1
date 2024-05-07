@@ -2,4 +2,5 @@ vless://bcd6dbb8-1893-49b5-a1eb-ff3de05e7c33@104.21.35.39:443?security=tls&sni=h
 vless://bcd6dbb8-1893-49b5-a1eb-ff3de05e7c33@160.153.0.108:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-Erfan1
 vless://bcd6dbb8-1893-49b5-a1eb-ff3de05e7c33@chidaneh.com:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-Erfan1
 vless://618dea50-fd7c-4e32-9de9-7154b56e1db7@[2606:4700:3033::6815:54cb]:443?security=tls&sni=tEMP2bpb.nOCiP37869.wOrkERS.Dev&alpn=http/1.1&fp=randomized&type=ws&path=/SIeoaJMp_4GIaowK?ed%3D2048&host=temP2BpB.nOcIP37869.WoRKeRS.dev&encryption=none#ws-Erfan1
+vless://bcd6dbb8-1893-49b5-a1eb-ff3de05e7c33@185.146.173.237:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-Erfan1
 
