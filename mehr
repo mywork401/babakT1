@@ -6,6 +6,7 @@ vless://623cdbd1-9a36-418e-88fc-62ae464a234b@104.26.10.126:443?path=%2Fmywork&se
 vless://623cdbd1-9a36-418e-88fc-62ae464a234b@162.159.130.134:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1
 
 vless://623cdbd1-9a36-418e-88fc-62ae464a234b@104.25.254.95:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+104
+vless://623cdbd1-9a36-418e-88fc-62ae464a234b@185.146.173.237:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+104
 
 
 vless://623cdbd1-9a36-418e-88fc-62ae464a234b@ipco1.npfeco.ir:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+ipco1
