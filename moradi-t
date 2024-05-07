@@ -8,3 +8,4 @@ vless://5661f44d-860d-43c6-99ea-c8f511d86402@coloradophotosource.com:443?securit
 vless://5661f44d-860d-43c6-99ea-c8f511d86402@23.227.39.40:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-mordi-t
 vless://5661f44d-860d-43c6-99ea-c8f511d86402@104.16.77.0:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-mordi-t
 
+vless://5661f44d-860d-43c6-99ea-c8f511d86402@185.146.173.237:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-mordi-t
