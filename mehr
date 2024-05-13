@@ -20,7 +20,7 @@ vless://623cdbd1-9a36-418e-88fc-62ae464a234b@2.189.59.2:443?path=%2Fmywork&secur
 vless://623cdbd1-9a36-418e-88fc-62ae464a234b@23.227.39.40:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1
 vless://623cdbd1-9a36-418e-88fc-62ae464a234b@104.16.77.0:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1
 
-
+warp://162.159.195.99:1074?ifp=10-20&ifps=20-60&ifpd=5-10#W1
 hy2://768333f5afd375b1@193.242.145.249:9443?obfs=salamander&obfs-password=c786dc00b2fbe4aa&insecure=1&sni=www.google.com#HY2
 warp://188.114.98.224:908/?ifp=5-10
 hysteria://108.181.5.133:26022?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#United%20States_hysteria_0
