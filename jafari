@@ -8,3 +8,6 @@ vless://21872125-102d-4c1e-a2fe-bec93b7c1335@188.114.96.3:443?security=tls&sni=h
 vless://21872125-102d-4c1e-a2fe-bec93b7c1335@www.speedtest.net:443?security=tls&sni=hv1.npfec.ir&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-jafari
 vless://21872125-102d-4c1e-a2fe-bec93b7c1335@185.146.173.237:443?security=tls&sni=hv1.npfec.ir&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-jafari
 
+
+
+hy2://768333f5afd375b1@193.242.145.249:9443?obfs=salamander&obfs-password=c786dc00b2fbe4aa&insecure=1&sni=www.google.com#HY2
