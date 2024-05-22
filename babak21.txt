@@ -6,10 +6,19 @@ vless://07452b18-62a2-58a4-9da5-204e49ea26e9@23.227.39.40:443?security=tls&sni=v
 
 vless://07452b18-62a2-58a4-9da5-204e49ea26e9@104.16.191.9:443?security=tls&sni=vahnew01.koreyek266.woRkErs.DEV&fp=android&type=ws&path=vless-ws/?ed%3D2048&host=vahnew01.koreyek266.woRkErs.DEV&encryption=none#mywork1-4030301
 
-
 vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@chidaneh.com:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-free1
 vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@104.31.16.218:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-free2
 vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@172.67.71.202:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-free4
 vless://c68d8878-1f60-4bb8-bd52-b77ba04a7265@104.25.254.95:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-free5
 hysteria://108.181.5.133:26022?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#husa
 
+
+mix
+vless://Telegram-ipV2Ray-tre@185.146.173.58:80?security=&fp=chrome&type=ws&path=/Telegram-ipV2Ray?ed%3D2048&host=V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&encryption=none#1
+vless://telegram-id-ArV2ray@185.146.173.237:80?security=&fp=chrome&type=ws&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed%3D2048&host=8.V2ray.www.soft98.ir.ww.zula.ir.eksun.ir.%E5%BA%94%E8%AF%A5%E6%94%B9%E6%88%90lan%E7%BD%91%E5%8D%A1.Site.&encryption=none#1
+vless://telegram-id-ArV2ray@185.146.173.58:80?security=&fp=chrome&type=ws&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed%3D2048&host=11.V2ray.ir.s.soft98.ir.www.speedtest.net.%E5%BA%94%E8%AF%A5%E6%94%B9%E6%88%90lan%E7%BD%91%E5%8D%A1.Site.&encryption=none#1
+vless://Parsashonam-77@185.146.173.58:8080?security=&fp=chrome&type=ws&path=/&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&encryption=none#1
+vless://Parsashonam-77@www.visa.com:8080?security=&fp=chrome&type=ws&path=/&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&encryption=none#1
+vless://68346de6-ac93-46f6-82a6-d1c4a22435bd@185.146.173.57:8080?security=&fp=chrome&type=ws&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&host=ch3.dontbow.store.&encryption=none#1
+vless://telegram-id-ArV2ray@185.146.173.94:80?security=&fp=chrome&type=ws&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed%3D2048&host=9.V2ray.mihanyas.ir.m2j.farsroid.com.%E5%88%9B%E4%BC%98%E8%88%8D%E5%88%9B%E4%BC%98%E8%88%8D.Store.&encryption=none#2
+vless://VPNCUSTOMiZE@join--vpncustomize.v2ray.re:8080?security=&fp=chrome&type=ws&path=/Join--VPNCUSTOMIZE.V2ray.re?ed%3D8080&host=VPNCUSTOMIZE.V2ray.Community.&encryption=none#3
