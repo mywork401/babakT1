@@ -3,4 +3,5 @@ vless://33fb40ed-bd1e-4356-bdbd-cb8642bcbd6f@104.25.254.95:443?path=%2Fmywork&se
 vless://33fb40ed-bd1e-4356-bdbd-cb8642bcbd6f@ipco1.npfeco.ir:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+ipco1-nemati
 
 
-hy2://9b3c30d77bdad860@193.242.145.249:9443?obfs=salamander&obfs-password=c786dc00b2fbe4aa&insecure=1&sni=www.google.com#nemat1-HY2
+hy2://9b3c30d77bdad860@193.242.145.249:9443?obfs=salamander&obfs-password=c786dc00b2fbe4aa&insecure=1&sni=www.google.com#nemat1-HY2-fr1
+hysteria2://5AtVmBBMq6@45.152.86.123:26463?upmbps=10&downmbps=10&sni=u2s2.npfeco.ir&obfs=salamander&obfs-password=123456789p#hys2-us2-nemati
