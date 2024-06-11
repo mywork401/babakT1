@@ -1,5 +1,5 @@
-vless://3990f7d0-701c-4bbf-b300-097d510b4639@185.146.173.237:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1-nemati
-vless://3990f7d0-701c-4bbf-b300-097d510b4639@104.25.254.95:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+104-nemati
-vless://3990f7d0-701c-4bbf-b300-097d510b4639@ipco1.npfeco.ir:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+ipco1-nemati
+vless://3990f7d0-701c-4bbf-b300-097d510b4639@185.146.173.237:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1-sia
+vless://3990f7d0-701c-4bbf-b300-097d510b4639@104.25.254.95:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+104-sia
+vless://3990f7d0-701c-4bbf-b300-097d510b4639@ipco1.npfeco.ir:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+ipco1-sia
 
 hy2://0e4157a18bb7d459@193.242.145.249:9443?obfs=salamander&obfs-password=c786dc00b2fbe4aa&insecure=1&sni=www.google.com#HY2R-sia
