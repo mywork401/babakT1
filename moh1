@@ -14,4 +14,4 @@ vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@185.146.173.237:443?path=%2Fmywork&
 
 vless://07452b18-62a2-58a4-9da5-204e49ea26e9@185.146.173.237:443?security=tls&sni=vahnew01.koreyek266.woRkErs.DEV&fp=android&type=ws&path=vless-ws/?ed%3D2048&host=vahnew01.koreyek266.woRkErs.DEV&encryption=none#mywork1-4030301
 
-hy2://13d516faf70bf2d3@193.242.145.249:19443?obfs=salamander&obfs-password=c786dc00b2fbe4aa&insecure=1&sni=www.google.com#moh1-HY
+hy2://13d516faf70bf2d3@193.242.145.249:9443?obfs=salamander&obfs-password=c786dc00b2fbe4aa&insecure=1&sni=www.google.com#moh1-HY
