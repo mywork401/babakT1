@@ -1,4 +1,2 @@
-hy2://a4d17a871831d3dd@194.116.217.49:9443?obfs=salamander&obfs-password=a3b29ff9275b711a&insecure=1&sni=www.google.com#jafari1-HY2
-hy2://1fe64d22-4fd5-4ac7-92a7-6cc553c099e2@152.53.0.187:0443?sni=speedtest.realityforus.com#wFrankfurt-jafari1
-hy2://1fe64d22-4fd5-4ac7-92a7-6cc553c099e2@213.183.48.11:0443?sni=speedtest.realityforus.com#M-jafari
-hy2://0e4157a18bb7d459@193.242.145.249:9443?obfs=salamander&obfs-password=c786dc00b2fbe4aa&insecure=1&sni=www.google.com#HY2R-jafari
+hy2://a4d17a871831d3dd@194.116.217.49:19443?obfs=salamander&obfs-password=a3b29ff9275b711a&insecure=1&sni=www.google.com#jafari1-HY2
+vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@160.153.0.108:8443?security=tls&sni=az1.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=az1.npfeco.ir&encryption=none#z2-jafari
