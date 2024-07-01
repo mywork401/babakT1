@@ -1,6 +1,6 @@
+hy2://997628d34dd4fbb2@194.116.217.49:9443?obfs=salamander&obfs-password=a3b29ff9275b711a&insecure=1&sni=www.google.com#nemati1-HY2
 vless://33fb40ed-bd1e-4356-bdbd-cb8642bcbd6f@185.146.173.237:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1-nemati
 vless://33fb40ed-bd1e-4356-bdbd-cb8642bcbd6f@104.25.254.95:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+104-nemati
 vless://33fb40ed-bd1e-4356-bdbd-cb8642bcbd6f@ipco1.npfeco.ir:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+ipco1-nemati
 
- hy2://997628d34dd4fbb2@194.116.217.49:9443?obfs=salamander&obfs-password=a3b29ff9275b711a&insecure=1&sni=www.google.com#nemati1-HY2
 
