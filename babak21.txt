@@ -14,3 +14,7 @@ hysteria://108.181.5.133:26022?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecu
 188.114.98.169:2408
 
 wireguard://SJRhy3YaxUpzozLE9GHckTuRim%2Bm9G73UQpKAxikbEE%3D@188.114.98.169:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8a61%3A761a%3A6687%3Afc53%3A233%2F128&reserved=98%2C43%2C183&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#W-ircell-2
+
+vless://288765bb-d6da-4fd3-8e7c-4d3849cf063b@185.146.173.58:80?security=&fp=chrome&type=ws&path=/telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy?ed%3D2048&host=Kanal-polproxy.Vipnufilter.Online.&encryption=none
+vless://telegram-id-ArV2ray@www.speedtest.net:8880?security=&fp=chrome&type=ws&path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed%3D2095&host=11.V.V2.v.www.speedtest.net.salatinmacvc.iR.&encryption=none
+vless://telegram-id-ArV2ray@172.67.138.69:2095?security=&fp=chrome&type=ws&path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed%3D2095&host=10.V.V2.www.speedtest.net.debian.org.mashtimji.iR.&encryption=none
