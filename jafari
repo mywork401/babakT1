@@ -2,5 +2,5 @@ hy2://a4d17a871831d3dd@194.116.217.49:19443?obfs=salamander&obfs-password=a3b29f
 vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@160.153.0.108:8443?security=tls&sni=az1.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=az1.npfeco.ir&encryption=none#z2-jafari
 vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@195.245.221.223:8443?security=tls&sni=az1.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=az1.npfeco.ir&encryption=none#z2-jafari
 
-vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@160.153.0.108:8443?security=tls&sni=a2z.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=az1.npfeco.ir&encryption=none#z2-jafari
-vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@195.245.221.223:8443?security=tls&sni=a2z.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=az1.npfeco.ir&encryption=none#z2-jafari
+vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@160.153.0.108:8443?security=tls&sni=a2z.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=a2z.npfeco.ir&encryption=none#z2-jafari
+vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@195.245.221.223:8443?security=tls&sni=a2z.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=a2z.npfeco.ir&encryption=none#z2-jafari
