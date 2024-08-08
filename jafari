@@ -4,3 +4,6 @@ vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@195.245.221.223:8443?security=tls&s
 
 vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@160.153.0.108:8443?security=tls&sni=a2z.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=a2z.npfeco.ir&encryption=none#z2-jafari
 vless://2a437f5e-9516-459a-844b-28e6e8ce9d49@195.245.221.223:8443?security=tls&sni=a2z.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=a2z.npfeco.ir&encryption=none#z2-jafari
+
+
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4yMzciLCJhaWQiOiIwIiwiaG9zdCI6ImJhYmFrMy5taXhvbDIxOTk2LldPcktlUnMuREVWIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2FrZS5jYXBlbGxhcmUuY29tOjQ0My9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiejItaiIsInNjeSI6ImF1dG8iLCJzbmkiOiJiYWJhazMubWl4b2wyMTk5Ni5XT3JLZVJzLkRFViIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
