@@ -12,7 +12,6 @@ vless://c56815df-a2ab-4165-8ae4-8bb6a70f871b@104.16.77.0:8443?security=tls&sni=a
 
 vless://1f83328e-a03e-45d3-b182-8e1db5275462@185.146.173.237:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-p2-homan2
 
-vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4yMzciLCJhaWQiOiIwIiwiaG9zdCI6ImJhYmFrMy5taXhvbDIxOTk2LldPcktlUnMuREVWIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2FrZS5jYXBlbGxhcmUuY29tOjQ0My9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiejItaiIsInNjeSI6ImF1dG8iLCJzbmkiOiJiYWJhazMubWl4b2wyMTk5Ni5XT3JLZVJzLkRFViIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
 
 
 hy2://4ddc80c496c94e97@194.116.217.49:9443?obfs=salamander&obfs-password=a3b29ff9275b711a&insecure=1&sni=www.google.com#hooman2-0420
