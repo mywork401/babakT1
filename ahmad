@@ -16,3 +16,4 @@ vless://07452b18-62a2-58a4-9da5-204e49ea26e9@185.146.173.237:443?security=tls&sn
 vless://07452b18-62a2-58a4-9da5-204e49ea26e9@23.227.39.40:443?security=tls&sni=vahnew01.koreyek266.woRkErs.DEV&fp=android&type=ws&path=vless-ws/?ed%3D2048&host=vahnew01.koreyek266.woRkErs.DEV&encryption=none#mywork1-4030301
 vless://07452b18-62a2-58a4-9da5-204e49ea26e9@104.16.191.9:443?security=tls&sni=vahnew01.koreyek266.woRkErs.DEV&fp=android&type=ws&path=vless-ws/?ed%3D2048&host=vahnew01.koreyek266.woRkErs.DEV&encryption=none#mywork1-4030301
 
+vless://98c88da8-2853-41a1-9dca-4a25e86098f7@154.206.12.189:8443?security=tls&sni=az1.npfeco.ir&alpn=http/1.1&fp=chrome&type=ws&path=/m&host=az1.npfeco.ir&encryption=none#z2-tempz
