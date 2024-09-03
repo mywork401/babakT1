@@ -3,3 +3,4 @@ vless://d99693d1-9e7c-4f13-a326-c3f30e6a95cf@185.146.173.237:8443?security=tls&s
 
 
 vless://8dfad1ca-19c8-4708-8754-2d4045653e36@185.146.173.237:443?security=tls&sni=hv1.npfec.ir&alpn=http/1.1&fp=chrome&type=ws&path=/mywork&host=hv1.npfec.ir&encryption=none#ws-p2-salehi1
+hy2://salehi1%3Az7alJt5n6KXP7toEUp0sQ9aY4fX206Ic@45.11.93.212:9443?obfs=salamander&obfs-password=PZOmJr6fljfPPITfJAi7aLyjWDLqTa7A&pinSHA256=sha256/rRhqi/KeVqop3UEnNZvyrVvZGqB7R+KFEo4ISqFkIcw=&insecure=1&sni=bts.com#salehi1-IPv4
