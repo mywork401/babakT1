@@ -2,5 +2,5 @@ vless://3990f7d0-701c-4bbf-b300-097d510b4639@185.146.173.237:443?path=%2Fmywork&
 vless://3990f7d0-701c-4bbf-b300-097d510b4639@104.25.254.95:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+104-sia
 vless://3990f7d0-701c-4bbf-b300-097d510b4639@ipco1.npfeco.ir:443?path=%2Fmywork&security=tls&encryption=none&alpn=h2,http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-ws1+ipco1-sia
 
-hy2://99c0a9bc685c1acb@194.116.217.49:9443?obfs=salamander&obfs-password=a3b29ff9275b711a&insecure=1&sni=www.google.com#sia1-HY2
+hy2://99c0a9bc685c1acb@193.116.217.49:9443?obfs=salamander&obfs-password=a3b29ff9275b711a&insecure=1&sni=www.google.com#sia1-HY2
 hy2://sia1:uc719T37ECX6mwvdG9nX10D6UvSc2ALP@45.11.93.212:9443?obfs=salamander&obfs-password=PZOmJr6fljfPPITfJAi7aLyjWDLqTa7A&insecure=1&sni=bts.com#sia1-IPv4
