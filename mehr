@@ -24,3 +24,5 @@ vless://623cdbd1-9a36-418e-88fc-62ae464a234b@104.16.77.0:443?path=%2Fmywork&secu
 hy2://8b8d405d5be654da@193.116.217.49:9443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=a3b29ff9275b711a#mehr1-HY2
 
 hy2://meh1%3ApvWomGCLx00YK1jYPj2sWZSJ4gjh6qJw@45.11.93.212:9443?obfs=salamander&obfs-password=PZOmJr6fljfPPITfJAi7aLyjWDLqTa7A&pinSHA256=sha256/rRhqi/KeVqop3UEnNZvyrVvZGqB7R+KFEo4ISqFkIcw=&insecure=1&sni=bts.com#meh1-IPv4
+
+hy2://meh1%3ApvWomGCLx00YK1jYPj2sWZSJ4gjh6qJw@[]:9443?obfs=salamander&obfs-password=PZOmJr6fljfPPITfJAi7aLyjWDLqTa7A&pinSHA256=sha256/rRhqi/KeVqop3UEnNZvyrVvZGqB7R+KFEo4ISqFkIcw=&insecure=1&sni=bts.com#meh1-IPv6
