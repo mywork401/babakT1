@@ -1,17 +1,4 @@
 
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@ipco2.npfeco.ir:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh-ipco2
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@ipco1.npfeco.ir:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh-ipco1
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@162.159.130.134:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh162
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@104.25.254.95:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh104
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@172.67.71.202:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh172
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@coloradophotosource.com:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-mohcolor
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@160.153.0.108:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh160
-
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@23.227.39.40:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh160
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@104.16.77.0:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh160
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@104.16.191.9:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh1
-vless://12fda9aa-de35-4a9a-a52b-a105da37d3ee@185.146.173.237:443?path=%2Fmywork&security=tls&encryption=none&alpn=http/1.1&host=hv1.npfec.ir&fp=chrome&type=ws&sni=hv1.npfec.ir#ws-moh1
-
 hy2://00e74afe1535ba84@193.116.217.49:9443?obfs=salamander&obfs-password=a3b29ff9275b711a&insecure=1&sni=www.google.com#moh1-HY2
 
 hy2://moh1%3ATXFvdFmufEY9eCS9rgVrXbbdjwcMsMar@45.11.93.212:9443?obfs=salamander&obfs-password=PZOmJr6fljfPPITfJAi7aLyjWDLqTa7A&pinSHA256=sha256/rRhqi/KeVqop3UEnNZvyrVvZGqB7R+KFEo4ISqFkIcw=&insecure=1&sni=bts.com#moh1-IPv4
