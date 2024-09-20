@@ -1,10 +1,8 @@
-hy2://ba8973b980e01035@194.116.217.49:9443?obfs=salamander&obfs-password=a3b29ff9275b711a&insecure=1&sni=www.google.com#ma1-HY2
-hy2://ba8973b980e01035@[2a13:7c00:5:8:f816:3eff:fe49:b3ed]:9443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=a3b29ff9275b711a#ma1-HY2-V6
+hy2://fma1%3AwBGXsprp7DqYtgQCV5HN3w4pRnKVRGvn@194.116.217.49:7443?obfs=salamander&obfs-password=eTzXqt7sksX7mxjlF0HWuCaifIoHClO3&pinSHA256=sha256/0sljq9RiFX04cpfu3JBcdsxXlx9u+x+SO8ZRCvlHYAk=&insecure=1&sni=google.com#fma1-IPv4
+hy2://fma1%3AwBGXsprp7DqYtgQCV5HN3w4pRnKVRGvn@[2a13:7c00:5:8:f816:3eff:fe49:b3ed]:7443?obfs=salamander&obfs-password=eTzXqt7sksX7mxjlF0HWuCaifIoHClO3&pinSHA256=sha256/0sljq9RiFX04cpfu3JBcdsxXlx9u+x+SO8ZRCvlHYAk=&insecure=1&sni=google.com#fma1-IPv6
 
 
 
 hy2://zma1%3A5DTU2vp5PbartVmCSxzDbYR7Tvtp8QYc@176.124.207.124:7766?obfs=salamander&obfs-password=m5XcEl0xnKws0kGt6tDG8Lb1GEFGmbBI&pinSHA256=sha256/8OSdPoBVta4Cmx+RRyc3btNXBjHfLgyhSzsiKKaqz1k=&insecure=1&sni=google.com#zma1-IPv4
 hy2://zma1%3A5DTU2vp5PbartVmCSxzDbYR7Tvtp8QYc@[2a0b:4140:97fc::2]:7766?obfs=salamander&obfs-password=m5XcEl0xnKws0kGt6tDG8Lb1GEFGmbBI&pinSHA256=sha256/8OSdPoBVta4Cmx+RRyc3btNXBjHfLgyhSzsiKKaqz1k=&insecure=1&sni=google.com#zma1-IPv6
 
-hy2://fma1%3AwBGXsprp7DqYtgQCV5HN3w4pRnKVRGvn@194.116.217.49:7443?obfs=salamander&obfs-password=eTzXqt7sksX7mxjlF0HWuCaifIoHClO3&pinSHA256=sha256/0sljq9RiFX04cpfu3JBcdsxXlx9u+x+SO8ZRCvlHYAk=&insecure=1&sni=google.com#fma1-IPv4
-hy2://fma1%3AwBGXsprp7DqYtgQCV5HN3w4pRnKVRGvn@[2a13:7c00:5:8:f816:3eff:fe49:b3ed]:7443?obfs=salamander&obfs-password=eTzXqt7sksX7mxjlF0HWuCaifIoHClO3&pinSHA256=sha256/0sljq9RiFX04cpfu3JBcdsxXlx9u+x+SO8ZRCvlHYAk=&insecure=1&sni=google.com#fma1-IPv6
