@@ -1,18 +1,19 @@
 
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.27:4444#us2
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.199:2376#us3
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.46:443#us4
+vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@vpn442telegram.wucwej.workers.dev:443?encryption=none&security=tls&sni=vpn442telegram.wucwej.workers.Dev&type=ws&path=%2F#1
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIiLA0KICAiYWRkIjogImJleW9uZGRiYy5zYnMiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOGQ5MGMxMjktNDE1Ni00ZDZjLTkxMTUtMjRkZjI1ZjI2YTAyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIiIsDQogICJob3N0IjogImJleW9uZGRiYy5zYnMiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImJleW9uZGRiYy5zYnMiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?encryption=none&security=none&type=ws&host=c.lkzb-0t0.workers.dev&path=%2F#3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZDJuWTVNWmFLR1Z5b1RIY2dMcGpY@77.83.246.74:33320#4
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#5
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#6
+hysteria2://18240b2dfdd76484@70.34.207.153:443?sni=70.34.207.153&obfs=salamander&obfs-password=d2648ec2&insecure=1#7
+
+
+
 hysteria2://648d0914-43c2-4968-8851-dd530b1e9650@107.172.235.75:47443?sni=dxobg4azmk.gafnode.sbs&insecure=0#LosAngeles-G-9650
 hysteria2://4e9ee29b39a28277@66.135.11.68:443?sni=66.135.11.68&obfs=salamander&obfs-password=13f7ba5f&insecure=1#us10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZGVlUXp6UVA5SFRHdnkzTktDOUZS@89.185.84.185:12575#GB1
 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#1
 hysteria2://18240b2dfdd76484@70.34.207.153:443?sni=70.34.207.153&obfs=salamander&obfs-password=d2648ec2&insecure=1#2
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#3
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#5
 
 vless://61ff8b60-2be0-40a6-94b5-92cca33f1fab@104.18.26.94:80?encryption=none&security=none&type=ws&host=sedalat.tatexe3807.workers.dev&path=%2F#b1
-trojan://blue2024@45.85.118.20:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#b2
-trojan://CMLiussss@zuladigikala885.ydns.eu:443?security=tls&sni=xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg&alpn=http%2F1.1&fp=randomized&type=ws&host=xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg&path=%2F%3Fed%3D2560#b3
-trojan://blue2024@104.16.238.107:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#b4
